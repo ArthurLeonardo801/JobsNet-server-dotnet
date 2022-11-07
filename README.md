@@ -5,7 +5,7 @@
 
 <h2>📌Comandos para rodar localmente 💻</h2>
 <ul>
-<li>Clonar - git clone https://github.com/well4ndrade/projeto-jobs-net</li>
+<li>Clonar - git clone git@github.com:ArthurLeonardo801/Jobs-Net-dotnet-server.git</li>
 <li>Para Rodar(porta 5001) - dotnet run</li>
 <li>Testes - dotnet build</li>
 </ul>
